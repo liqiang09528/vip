@@ -48,13 +48,14 @@
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	position: relative;
 }
 #div4_top{
 	width: 100%;
 	align-items:center;
 }
 #div4_body{
-	top: 96%;
+	top: 30%;
 	width: 92%;
 	position:absolute;
 	align-items:center;
@@ -77,6 +78,7 @@
 }
 #div5{
 	width: 100%;
+	position: relative;
 }
 #div5_top{
 	width: 92%;
@@ -91,7 +93,7 @@
 	
 
 #div5_body{
-	top: 135%;
+	top: 30%;
 	position: absolute;
 	align-items:center;
 }
